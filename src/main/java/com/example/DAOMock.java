@@ -1,3 +1,7 @@
+/**
+ * This file is from "Java Do #06".
+ */
+
 package com.example;
 
 import java.util.*;
